@@ -22,6 +22,7 @@
     "body-parser": "^1.19.0",
     "core-js": "^3.19.1",
     "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
     "lodash": "^4.17.21",
     "verdaccio-audit": "^11.0.0-6-next.7",
     "verdaccio-aws-s3-storage": "^11.0.0-6-next.8"

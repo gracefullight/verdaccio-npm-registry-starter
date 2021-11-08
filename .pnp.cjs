@@ -46,6 +46,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.19.0"],
             ["core-js", "npm:3.19.1"],
             ["debug", "virtual:a718d1f495fd00a60ffedb65d84ec0ab2b6fdff5dd9c8468c856428863a01f7d9f36bf79116bd462ffd273b5b61a1f1efa4d88ded67b3f9e06b3f2ff2b818e45#npm:4.3.2"],
+            ["dotenv", "npm:10.0.0"],
             ["husky", "npm:7.0.4"],
             ["lodash", "npm:4.17.21"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=ddd1e8"],
@@ -1749,6 +1750,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["dot-prop", "npm:5.3.0"],
             ["is-obj", "npm:2.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["dotenv", [
+        ["npm:10.0.0", {
+          "packageLocation": "./.yarn/cache/dotenv-npm-10.0.0-36b272df25-f412c5fe8c.zip/node_modules/dotenv/",
+          "packageDependencies": [
+            ["dotenv", "npm:10.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4742,6 +4752,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["body-parser", "npm:1.19.0"],
             ["core-js", "npm:3.19.1"],
             ["debug", "virtual:a718d1f495fd00a60ffedb65d84ec0ab2b6fdff5dd9c8468c856428863a01f7d9f36bf79116bd462ffd273b5b61a1f1efa4d88ded67b3f9e06b3f2ff2b818e45#npm:4.3.2"],
+            ["dotenv", "npm:10.0.0"],
             ["husky", "npm:7.0.4"],
             ["lodash", "npm:4.17.21"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=ddd1e8"],

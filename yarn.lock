@@ -1480,6 +1480,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "dotenv@npm:10.0.0"
+  checksum: f412c5fe8c24fbe313d302d2500e247ba8a1946492db405a4de4d30dd0eb186a88a43f13c958c5a7de303938949c4231c56994f97d05c4bc1f22478d631b4005
+  languageName: node
+  linkType: hard
+
 "ecc-jsbn@npm:~0.1.1":
   version: 0.1.2
   resolution: "ecc-jsbn@npm:0.1.2"
@@ -4153,6 +4160,7 @@ __metadata:
     body-parser: ^1.19.0
     core-js: ^3.19.1
     debug: ^4.3.2
+    dotenv: ^10.0.0
     husky: ^7.0.4
     lodash: ^4.17.21
     typescript: ^4.4.4
