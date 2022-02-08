@@ -46,5 +46,8 @@ web:
   # sort_packages: asc | desc
   darkMode: true
   # favicon: http://somedomain/favicon.ico | /path/favicon.ico
+  pkgManagers:
+    - npm
+    - yarn
 
 logs: { type: stdout, format: pretty-timestamped, level: http }
